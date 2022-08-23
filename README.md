@@ -1,8 +1,8 @@
 ### Olá, sou Guilherme! 👋
 
-- 🔭 I'm not working currently
-- 🌱 I’m learning HTML5 and CSS3
-- 😄 Pronouns: Ele/Dele
+- 🔭 I'm not working currently (but I'd like).
+- 🌱 I’m learning HTML5, CSS3 and JS.
+- 😄 Pronouns: Ele/Dele.
 
 <div>
   <a href="https://github.com/GuilhermeFontoura">
