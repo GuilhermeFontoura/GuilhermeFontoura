@@ -1,7 +1,7 @@
 ### Olá, sou Guilherme! 👋
 
 - 🔭 I'm not working currently (but I'd like).
-- 🌱 I’m learning HTML5, CSS3 and JS.
+- 🌱 I’m learning Python.
 - 😄 Pronouns: Ele/Dele.
 
 <div>
