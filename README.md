@@ -11,7 +11,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-PYTHON" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br><br>
+  <img align="center" alt="Gui-JAVASCRIPT" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br><br>
  
   
   <div> 
