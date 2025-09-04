@@ -11,7 +11,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="python-gui" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br><br>
+  <img align="center" alt="python-gui" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
   <img align="center" alt="aws-gui" height="30" width="40" <img src="https://www.svgrepo.com/show/331300/aws.svg" /><br><br>
   
   <div> 
