@@ -12,7 +12,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="python-gui" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br><br>
-  <img align="center" alt="aws-gui" height="30" width="40" <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png)" /><br><br>
+  <img align="center" alt="aws-gui" height="30" width="40" <img src="https://www.svgrepo.com/show/331300/aws.svg" /><br><br>
   
   <div> 
   <a href="https://www.instagram.com/hi_guii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
